@@ -12,7 +12,7 @@ cd glue
 . ./install.sh
 ```
 
-# Use
+## Use
 
 after you typed a bunch of command, in this case i'm going to use git as an example:
 
